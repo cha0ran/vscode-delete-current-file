@@ -3,7 +3,11 @@
   "displayName": "DeleteCurrentFile",
   "description": "%deletecurrentfile.desc%",
   "version": "0.1.0",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cha0ran/deleteCurrentFile.git"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
