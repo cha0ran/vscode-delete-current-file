@@ -1,0 +1,6 @@
+{
+    "deletecurrentfile.desc": "Delete the file currently being edited.",
+    "deletecurrentfile.config.title": "Delete Current File",
+    "deletecurrentfile.config.totrash": "Whether to delete files to the trash?",
+    "deletecurrentfile.command.title": "Delete Current File"
+}

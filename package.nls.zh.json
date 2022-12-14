@@ -1,0 +1,6 @@
+{
+    "deletecurrentfile.desc": "删除当前正在编辑的文件。",
+    "deletecurrentfile.config.title": "删除当前文件",
+    "deletecurrentfile.config.totrash": "删除到回收站",
+    "deletecurrentfile.command.title": "删除当前文件"
+}
