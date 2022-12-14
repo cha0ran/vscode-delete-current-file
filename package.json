@@ -4,6 +4,7 @@
   "description": "%deletecurrentfile.desc%",
   "version": "0.1.0",
   "license": "SEE LICENSE IN LICENSE.txt",
+  "publisher": "cha0ran",
   "repository": {
     "type": "git",
     "url": "https://github.com/cha0ran/deleteCurrentFile.git"
