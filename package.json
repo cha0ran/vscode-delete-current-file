@@ -2,7 +2,7 @@
   "name": "deletecurrentfile",
   "displayName": "Delete Current File",
   "description": "%deletecurrentfile.desc%",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "license": "SEE LICENSE IN LICENSE.txt",
   "publisher": "cha0ran",
   "repository": {
@@ -39,8 +39,8 @@
     ],
     "keybindings": {
       "command": "deletecurrentfile.deleteCurrentFile",
-      "key": "ctrl+shift+backspace",
-      "mac": "cmd+shift+backspace"
+      "key": "ctrl+d+ctrl+f",
+      "mac": "cmd+d+cmd+f"
     },
     "menus": {
       "commandPalette": [

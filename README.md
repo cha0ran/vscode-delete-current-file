@@ -16,6 +16,10 @@ This extension contributes the following settings:
 
 HappyCoding!
 
+### 0.1.2
+
+Optimize shortcut keys for one handed deletion.
+
 ### 0.1.0
 
 Life is death.
