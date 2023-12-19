@@ -16,6 +16,10 @@ This extension contributes the following settings:
 
 HappyCoding!
 
+### 0.1.5
+
+Remove when condition `activeEditorIsNotPreview`, note that files can now be deleted in preview mode as well.
+
 ### 0.1.2
 
 Optimize shortcut keys for one handed deletion.
