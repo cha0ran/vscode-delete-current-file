@@ -10,6 +10,10 @@
     "url": "https://github.com/cha0ran/deleteCurrentFile.git"
   },
   "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1e415e",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
