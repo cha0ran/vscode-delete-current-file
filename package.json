@@ -7,7 +7,7 @@
   "publisher": "cha0ran",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cha0ran/deleteCurrentFile.git"
+    "url": "https://github.com/cha0ran/vscode-delete-current-file.git"
   },
   "icon": "icon.png",
   "galleryBanner": {
